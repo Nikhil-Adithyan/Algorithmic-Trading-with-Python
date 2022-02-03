@@ -1,6 +1,6 @@
 # Algorithmic Trading with Python
 
-This repository acts as a library of quantitative algorithms for algorithmic trading implemented in Python. There are currently 23 programs and more will be added with the passage of time. Based on the technical indicator's nature, the algorithms are classified into five directories: Advanced Strategies, Momentum, Overlap, Trend, and Volatility
+This repository acts as a library of quantitative algorithms for algorithmic trading implemented in Python. There are currently 23 programs and more will be added with the passage of time. Based on the technical indicator's nature, the algorithms are classified into five directories: Advanced Strategies, Momentum, Overlap, Trend, and Volatility. Use the link here for a detailed explanation of each of the strategies represented: https://nikhiladithyan.medium.com/list/algorithmic-trading-with-python-152fa99c535a
 
 ## [Advanced Strategies (5)](https://github.com/Nikhil-Adithyan/Algorithmic-Trading-with-Python/tree/main/Advanced%20Strategies)
 
